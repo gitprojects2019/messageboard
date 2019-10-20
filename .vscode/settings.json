@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ab97f0a1-4c14-40ba-8fe0-aca6f25baf09/resourceGroups/AngularProjects/providers/Microsoft.Web/sites/chatplatform",
+    "appService.deploySubpath": ""
+}
